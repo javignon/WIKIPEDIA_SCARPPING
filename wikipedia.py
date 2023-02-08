@@ -1,3 +1,5 @@
+# AVIGNON Jules
+
 # -*- coding: utf-8 -*-
 import sys
 from urllib.request import Request, urlopen
